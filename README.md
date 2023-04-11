@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![afk-echo's stats](https://github-readme-stats.vercel.app/api?username=afk-echo&show_icons=true&theme=dracula)](https://github.com/efk-echo/github-readme-stats)
 
